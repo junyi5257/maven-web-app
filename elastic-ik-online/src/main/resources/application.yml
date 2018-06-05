@@ -1,0 +1,6 @@
+
+## api https://www.cnblogs.com/softidea/p/5851298.html
+
+spring:
+  profiles:
+    active: dev
